@@ -1,0 +1,7 @@
+name: BedWars2023-TeamSelector
+author: AgentNoobff
+version: ${project.version}
+description: Team Selector Add-on for BedWars2023 Minigame.
+main: me.agent.teamselector.Main
+softdepend: [BedWars2023]
+api-version: '1.13'
